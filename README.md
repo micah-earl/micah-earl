@@ -1,16 +1,16 @@
-## Hi there 👋
+Micah Earl
 
-<!--
-**micah-earl/micah-earl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Micah Earl, a student at Brigham Young University–Idaho interested in computer science, software engineering, web development, machine learning, artificial intelligence, and cybersecurity. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+I'm currently learning full-stack web development, machine learning concepts, Python, and modern backend technologies.
+My goals are to build impactful software projects, grow my skills in AI and software engineering, and create scalable applications that solve real problems.
+Ask me about Python, web development, AI projects, fitness, or tech careers.
+Technologies and Tools
+Proficient in: Python, HTML, CSS, JavaScript, SQL, Git, GitHub, Firebase, Supabase
+Skills: Problem Solving, Backend Development, Database Design, API Integration, Team Collaboration, UI/UX Thinking
+Let's Connect!
+Here is my LInkedin www.linkedin.com/in/micah-earl profile
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
