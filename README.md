@@ -4,10 +4,10 @@
 
 I'm a student at **Brigham Young University–Idaho** passionate about:
 
-- 💻 Computer Science
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Web Development
-- ⚙️ Software Engineering
+-  Computer Science
+-  Artificial Intelligence & Machine Learning
+-  Web Development
+-  Software Engineering
 
 I'm currently learning full-stack web development, machine learning concepts, Python, and modern backend technologies.
 
@@ -15,7 +15,7 @@ My goals are to build impactful software projects, grow my skills in AI and soft
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 ### Languages & Technologies
 - Python
@@ -37,7 +37,7 @@ My goals are to build impactful software projects, grow my skills in AI and soft
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 - Python
 - Web Development
@@ -48,7 +48,7 @@ My goals are to build impactful software projects, grow my skills in AI and soft
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 - LinkedIn: www.linkedin.com/in/micah-earl
 
